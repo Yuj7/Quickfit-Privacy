@@ -1,5 +1,5 @@
 Privacy Policy – QuickFit
-Effective date: [Month Day, Year] Contact: [support email]
+Effective date: 2025/12/31
 
 QuickFit (“we,” “our,” or “us”) provides a fitness app that helps you complete daily workouts. This policy explains what data we collect and how we use it.
 
@@ -25,7 +25,7 @@ We retain your data as long as your account is active. You can request deletion 
 
 Your Choices
 You can update your display name and account information in the app.
-You can request account deletion and data removal by contacting us.
+You can request account deletion and data removal.
 Security
 We use reasonable security measures to protect your data, but no system is 100% secure.
 
@@ -34,6 +34,3 @@ QuickFit is not intended for children under 13, and we do not knowingly collect 
 
 Changes to This Policy
 We may update this policy. The effective date will be updated if changes are made.
-
-Contact
-For questions or requests, contact: [support email]
